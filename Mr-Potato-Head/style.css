@@ -1,0 +1,28 @@
+.columns{
+	display: inline-block;
+	height:100vh;
+}
+
+.columnBody {
+	background-color: green;
+	width:65vw;
+}
+
+.columnParts {
+	background-color:#cecece;
+	display: inline-block;
+	margin-left: 10px;
+	width:15vw;
+}
+
+#potatoBody {
+	height:95vh;
+	margin: 2.5vh 25%;
+	width:40vw;
+}
+
+
+.parts img{
+	display: block;
+	margin: 20px auto;
+}
