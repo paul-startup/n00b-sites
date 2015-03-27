@@ -1,0 +1,25 @@
+img{
+	display: inline-block;
+}
+
+.background img{
+	height:100vh;
+	width: 100vw;
+}
+
+#greenPipe{
+	height:40vh;
+	position: absolute;
+	right: 45vw;
+	top: 46vh;
+}
+
+
+#marioBros {
+	height: 20vh;
+	position: absolute;
+	right: 44vw;
+	top:29vh;
+	width:15vw;
+	z-index: 9999;
+}
